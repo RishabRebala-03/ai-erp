@@ -6,6 +6,10 @@
 ![Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
 
+![Status](https://img.shields.io/badge/Status-Production_Ready-success)
+![Architecture](https://img.shields.io/badge/Architecture-Full_Stack-blue)
+![Type](https://img.shields.io/badge/Project-Enterprise_Software-purple)
+
 AI-powered ERP platform built for interior design and furniture businesses.
 
 ERP NAX AI centralizes customer management, product catalogs, design workflows, quotation generation, approvals, and business analytics into a single intelligent platform. By combining enterprise resource planning with AI-powered product recognition and recommendation capabilities, the system helps organizations streamline operations from design ideation to quotation approval.
